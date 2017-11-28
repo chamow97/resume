@@ -1,6 +1,6 @@
 <center>
 	<h1>Résumé</h1>
-	<p>A repository containing my resume in tex and pdf format.</p>
+	<p>A repository contains my Résumé in tex and pdf format.</p>
 	<br>
 	<h3>Versions</h3>
 	<h4>Online</h4>
