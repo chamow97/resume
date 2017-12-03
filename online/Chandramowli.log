@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.2)  28 NOV 2017 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.11.2)  3 DEC 2017 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Chandramowli-28-11-2017.tex
-(./Chandramowli-28-11-2017.tex
+**Chandramowli.tex
+(./Chandramowli.tex
 LaTeX2e <2017-04-15>
 Babel <3.12> and hyphenation patterns for 9 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -587,8 +587,8 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 21.
 
-(./Chandramowli-28-11-2017.aux)
-\openout1 = `Chandramowli-28-11-2017.aux'.
+No file Chandramowli.aux.
+\openout1 = `Chandramowli.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -604,7 +604,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -683,10 +682,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
-
-(./Chandramowli-28-11-2017.out) (./Chandramowli-28-11-2017.out)
 \@outlinefile=\write3
-\openout3 = `Chandramowli-28-11-2017.out'.
+\openout3 = `Chandramowli.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 41.
@@ -719,26 +716,31 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
-
-(./Chandramowli-28-11-2017.aux)
+ (./Chandramowli.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
-Package rerunfilecheck Info: File `Chandramowli-28-11-2017.out' has not changed
-.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package rerunfilecheck Warning: File `Chandramowli.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Chandramowli.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 85 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15871 strings out of 494813
- 287435 string characters out of 6178109
- 372545 words of memory out of 5000000
+ 15865 strings out of 494813
+ 287190 string characters out of 6178109
+ 372419 words of memory out of 5000000
  19052 multiletter control sequences out of 15000+600000
  534971 words of font info for 38 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 39i,9n,46p,10439b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,9n,46p,10428b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
@@ -747,10 +749,10 @@ re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Chandramowli-28-11-2017.pdf (1 page, 107589 bytes).
+Output written on Chandramowli.pdf (1 page, 107628 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
